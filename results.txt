@@ -1,0 +1,149 @@
+# First Run BLOCK_SIZE 1024
+Two Pivot Block Quicksort sorting small_random
+2.0020008087158203 ms
+Mergesort sorting small_random
+0.9982585906982422 ms
+Two Pivot Block Quicksort sorting small_sorted
+14.99319076538086 ms
+Mergesort sorting small_sorted
+1.0104179382324219 ms
+Two Pivot Block Quicksort sorting small_reversed
+15.996217727661133 ms
+Mergesort sorting small_reversed
+0.9932518005371094 ms
+Two Pivot Block Quicksort sorting medium_random
+30.010700225830078 ms
+Mergesort sorting medium_random
+17.989635467529297 ms
+Two Pivot Block Quicksort sorting medium_sorted
+4121.028423309326 ms
+Mergesort sorting medium_sorted
+13.99850845336914 ms
+Two Pivot Block Quicksort sorting medium_reversed
+4101.533889770508 ms
+Mergesort sorting medium_reversed
+12.961864471435547 ms
+Two Pivot Block Quicksort sorting large_random
+257.9996585845947 ms
+Mergesort sorting large_random
+167.00339317321777 ms
+Two Pivot Block Quicksort sorting large_sorted
+264306.16569519043 ms
+Mergesort sorting large_sorted
+126.0063648223877 ms
+Two Pivot Block Quicksort sorting large_reversed
+262754.69303131104 ms
+Mergesort sorting large_reversed
+146.99840545654297 ms
+
+# Second Run BLOCK_SIZE 1024
+Two Pivot Block Quicksort sorting small_random
+2.000570297241211 ms
+51.67578125 MB
+Mergesort sorting small_random
+1.0006427764892578 ms
+51.68359375 MB
+Two Pivot Block Quicksort sorting small_sorted
+15.995264053344727 ms
+51.68359375 MB
+Mergesort sorting small_sorted
+0.9942054748535156 ms
+51.68359375 MB
+Two Pivot Block Quicksort sorting small_reversed
+14.992952346801758 ms
+51.68359375 MB
+Mergesort sorting small_reversed
+0.0 ms
+51.6875 MB
+Two Pivot Block Quicksort sorting medium_random
+29.008150100708008 ms
+51.76171875 MB
+Mergesort sorting medium_random
+15.992403030395508 ms
+51.91015625 MB
+Two Pivot Block Quicksort sorting medium_sorted
+4137.127161026001 ms
+52.44140625 MB
+Mergesort sorting medium_sorted
+14.002799987792969 ms
+52.46875 MB
+Two Pivot Block Quicksort sorting medium_reversed
+4102.705955505371 ms
+52.46875 MB
+Mergesort sorting medium_reversed
+13.000726699829102 ms
+52.48046875 MB
+Two Pivot Block Quicksort sorting large_random
+261.00611686706543 ms
+52.91796875 MB
+Mergesort sorting large_random
+154.99258041381836 ms
+53.859375 MB
+Two Pivot Block Quicksort sorting large_sorted
+265868.5989379883 ms
+56.921875 MB
+Mergesort sorting large_sorted
+129.00710105895996 ms
+55.28515625 MB
+Two Pivot Block Quicksort sorting large_reversed
+263662.00399398804 ms
+56.92578125 MB
+Mergesort sorting large_reversed
+126.00588798522949 ms
+55.3515625 MB
+
+# Third Run BLOCK_SIZE 64
+Two Pivot Block Quicksort sorting small_random
+0.9992122650146484 ms
+52.1328125 MB
+Mergesort sorting small_random
+1.0111331939697266 ms
+52.13671875 MB
+Two Pivot Block Quicksort sorting small_sorted
+17.008304595947266 ms
+52.13671875 MB
+Mergesort sorting small_sorted
+0.0 ms
+52.13671875 MB
+Two Pivot Block Quicksort sorting small_reversed
+14.005184173583984 ms
+52.13671875 MB
+Mergesort sorting small_reversed
+0.988006591796875 ms
+52.13671875 MB
+Two Pivot Block Quicksort sorting medium_random
+22.007226943969727 ms
+52.13671875 MB
+Mergesort sorting medium_random
+16.00790023803711 ms
+52.13671875 MB
+Two Pivot Block Quicksort sorting medium_sorted
+3824.094772338867 ms
+52.63671875 MB
+Mergesort sorting medium_sorted
+15.001058578491211 ms
+52.640625 MB
+Two Pivot Block Quicksort sorting medium_reversed
+4146.920680999756 ms
+52.640625 MB
+Mergesort sorting medium_reversed
+14.005899429321289 ms
+52.640625 MB
+Two Pivot Block Quicksort sorting large_random
+227.00142860412598 ms
+53.1015625 MB
+Mergesort sorting large_random
+168.989896774292 ms
+53.6015625 MB
+Two Pivot Block Quicksort sorting large_sorted
+249327.6765346527 ms
+56.375 MB
+Mergesort sorting large_sorted
+125.99420547485352 ms
+55.04296875 MB
+Two Pivot Block Quicksort sorting large_reversed
+251677.69265174866 ms
+56.41015625 MB
+Mergesort sorting large_reversed
+126.0063648223877 ms
+55.03125 MB
